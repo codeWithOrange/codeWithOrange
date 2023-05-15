@@ -4,5 +4,5 @@
 # 🔗 **Links**
 [https://www.youtube.com/@spicarrcoding](#)
 # 🛠️ Skills
-### C, C++, Java, Python, Flet, Pynecone, javascript, Django, Html, Css, Flutter, Dart, Node js, MongoDb, Mysql, Vue js, Go etc.
+### C, C++, Java, Python, Flet, Pynecone, javascript, Django, Html, Css, Flutter, Dart, Node js, MongoDb, Mysql, Vue js, Go,c# etc.
 
