@@ -2,5 +2,5 @@
 # 🚀 About Me
 #### **I'm 19 years old full stack software and web developer.**
 # 🔗 **Links**
-[[Button Text](https://www.youtube.com/@spicarrcoding)](#)
+[https://www.youtube.com/@spicarrcoding](#)
 
