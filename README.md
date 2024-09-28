@@ -1,4 +1,4 @@
-# Hi, I'm Varun Aryan. 👋
+# Hi, I'm Angad Kumar. 👋
 # 🚀 About Me
 ### **I'm 19 years old full stack software and web developer.**
 # 🔗 **Links**
