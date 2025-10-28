@@ -37,16 +37,15 @@
 
 | Skill | Power ⚡ | Level |
 |-------|-----------|--------|
-| 🐍 Python | ![Progress](https://progress-bar.dev/95/?title=Expert&color=00C851) | 🔥 |
-| ⚡ Flutter | ![Progress](https://progress-bar.dev/90/?title=Advanced&color=ff6b6b) | 🚀 |
-| 🧱 FastAPI | ![Progress](https://progress-bar.dev/88/?title=Advanced&color=33b5e5) | 💫 |
-| 🌐 Django + DRF | ![Progress](https://progress-bar.dev/85/?title=Advanced&color=feca57) | 💡 |
-| 🗃️ PostgreSQL | ![Progress](https://progress-bar.dev/80/?title=Proficient&color=10ac84) | 🔧 |
-| ☁️ Node.js | ![Progress](https://progress-bar.dev/78/?title=Strong&color=1dd1a1) | 🧩 |
-| 🧠 React + Next.js | ![Progress](https://progress-bar.dev/75/?title=Good&color=5f27cd) | 💻 |
-| 🦾 Vue + Nuxt3 | ![Progress](https://progress-bar.dev/70/?title=Good&color=ff9f43) | ⚙️ |
+| 🐍 Python | ![Python](https://img.shields.io/badge/Expert-95%25-brightgreen?style=for-the-badge) | 🔥 |
+| ⚡ Flutter | ![Flutter](https://img.shields.io/badge/Advanced-90%25-ff6b6b?style=for-the-badge) | 🚀 |
+| 🧱 FastAPI | ![FastAPI](https://img.shields.io/badge/Advanced-88%25-33b5e5?style=for-the-badge) | 💫 |
+| 🌐 Django + DRF | ![Django](https://img.shields.io/badge/Advanced-85%25-feca57?style=for-the-badge) | 💡 |
+| 🗃️ PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/Proficient-80%25-10ac84?style=for-the-badge) | 🔧 |
+| ☁️ Node.js | ![Node](https://img.shields.io/badge/Strong-78%25-1dd1a1?style=for-the-badge) | 🧩 |
+| 🧠 React + Next.js | ![React](https://img.shields.io/badge/Good-75%25-5f27cd?style=for-the-badge) | 💻 |
+| 🦾 Vue + Nuxt3 | ![Vue](https://img.shields.io/badge/Good-70%25-ff9f43?style=for-the-badge) | ⚙️ |
 
----
 
 ## 💼 Featured Projects
 
