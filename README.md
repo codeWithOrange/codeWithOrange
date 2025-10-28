@@ -52,12 +52,12 @@
 
 | 🚀 Project | 🔧 Tech Stack | 🌟 Description |
 |-------------|---------------|----------------|
-| 🛍️ **[Bintrayx.store](https://bintrayx.store)** | FastAPI + Vue + PostgreSQL | Online digital store with advanced backend and admin dashboard |
+| 🛍️ **[Bintrayx.store](https://bintrayx.store)** | FastAPI + Vue + PostgreSQL | Online app and desktop software store with advanced backend and admin dashboard |
 | 📚 **[LexiDaily](https://play.google.com/store/apps/details?id=com.spicarr.lexidaily&hl=en)** | Flutter + Supabase + Firebase | Productivity + messaging app combining notes, tasks & chat |
-| 🧥 **[Takshnika.shop](https://takshnika.shop)** | Next.js + FastAPI + Stripe | E-commerce platform for college tech community |
+| 🧥 **[Takshnika.shop](https://takshnika.shop)** | Next.js + FastAPI + Stripe | E-commerce platform for college for selling notes |
 | 📞 **[PulseCall](https://bintrayx.store/auth/all_softwares/6/)** | Flutter + Node.js + WebRTC | Fake incoming call simulation + call scheduler |
 | 🤖 **[Cleannova](https://cleannova.vercel.app)** | Arduino + C + Bluetooth | Autonomous vacuum + mop robot with real-time control |
-| ✍️ **[SpicarrBlog](https://spicarrblog.vercel.app)** | Nuxt 3 + Supabase | Blogging platform to ignite your curiosity |
+| ✍️ **[SpicarrBlog](https://spicarrblog.vercel.app)** | Nuxt 3 + Golang + Gin + PostgreSql | Blogging platform to ignite your curiosity |
 
 ---
 
