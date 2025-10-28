@@ -37,18 +37,19 @@
 
 | Skill | Power ⚡ | Level |
 |-------|-----------|--------|
-| 🐍 Python | ![Progress](https://progress-bar.dev/95/?title=Expert&color=00C851) | 🔥 |
-| ⚡ Flutter | ![Progress](https://progress-bar.dev/90/?title=Advanced&color=ff6b6b) | 🚀 |
-| 🧱 FastAPI | ![Progress](https://progress-bar.dev/88/?title=Advanced&color=33b5e5) | 💫 |
-| 🌐 Django + DRF | ![Progress](https://progress-bar.dev/85/?title=Advanced&color=feca57) | 💡 |
-| 🗃️ PostgreSQL | ![Progress](https://progress-bar.dev/80/?title=Proficient&color=10ac84) | 🔧 |
-| ☁️ Node.js | ![Progress](https://progress-bar.dev/78/?title=Strong&color=1dd1a1) | 🧩 |
-| 🧠 React + Next.js | ![Progress](https://progress-bar.dev/75/?title=Good&color=5f27cd) | 💻 |
-| 🦾 Vue + Nuxt3 | ![Progress](https://progress-bar.dev/70/?title=Good&color=ff9f43) | ⚙️ |
-| 🦍 Go (Golang) | ![Progress](https://progress-bar.dev/65/?title=Intermediate&color=4285F4) | 🌀 |
-| 🦀 Rust | ![Progress](https://progress-bar.dev/60/?title=Learning&color=b86bff) | 🧱 |
-| 🔗 LangChain | ![Progress](https://progress-bar.dev/55/?title=Exploring&color=00e676) | 🧬 |
-| 🧮 DSA (Data Structures & Algorithms) | ![Progress](https://progress-bar.dev/85/?title=Advanced&color=f368e0) | 🧠 |
+| 🐍 **Python** | ![Python](https://img.shields.io/badge/Expert-95%25-00C851?style=for-the-badge&logo=python&logoColor=white) | 🔥 |
+| ⚡ **Flutter** | ![Flutter](https://img.shields.io/badge/Advanced-90%25-ff6b6b?style=for-the-badge&logo=flutter&logoColor=white) | 🚀 |
+| 🧱 **FastAPI** | ![FastAPI](https://img.shields.io/badge/Advanced-88%25-33b5e5?style=for-the-badge&logo=fastapi&logoColor=white) | 💫 |
+| 🌐 **Django + DRF** | ![Django](https://img.shields.io/badge/Advanced-85%25-feca57?style=for-the-badge&logo=django&logoColor=white) | 💡 |
+| 🗃️ **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/Proficient-80%25-10ac84?style=for-the-badge&logo=postgresql&logoColor=white) | 🔧 |
+| ☁️ **Node.js** | ![Node.js](https://img.shields.io/badge/Strong-78%25-1dd1a1?style=for-the-badge&logo=node.js&logoColor=white) | 🧩 |
+| 🧠 **React + Next.js** | ![React](https://img.shields.io/badge/Good-75%25-5f27cd?style=for-the-badge&logo=react&logoColor=white) | 💻 |
+| 🦾 **Vue + Nuxt3** | ![Vue](https://img.shields.io/badge/Good-70%25-ff9f43?style=for-the-badge&logo=vue.js&logoColor=white) | ⚙️ |
+| 🦍 **Go (Golang)** | ![Go](https://img.shields.io/badge/Intermediate-65%25-4285F4?style=for-the-badge&logo=go&logoColor=white) | 🌀 |
+| 🦀 **Rust** | ![Rust](https://img.shields.io/badge/Learning-60%25-b86bff?style=for-the-badge&logo=rust&logoColor=white) | 🧱 |
+| 🔗 **LangChain** | ![LangChain](https://img.shields.io/badge/Exploring-55%25-00e676?style=for-the-badge&logo=chainlink&logoColor=white) | 🧬 |
+| 🧮 **DSA** | ![DSA](https://img.shields.io/badge/Advanced-85%25-f368e0?style=for-the-badge&logo=leetcode&logoColor=white) | 🧠 |
+
 
 
 
