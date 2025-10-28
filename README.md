@@ -19,7 +19,7 @@
 
 ## 🔗 Links
 🌐 [YouTube – Spicarr Coding](https://www.youtube.com/@spicarrcoding)  
-🐙 [GitHub – openAi-kumar](https://github.com/openAi-kumar)  
+🐙 [GitHub – codeWithOrange](https://github.com/codeWithOrange)  
 💼 [LinkedIn – Angad Kumar](https://www.linkedin.com/in/angadp11/)  
 📫 [Email – angad.kumarp11@gmail.com](mailto:angad.kumarp11@gmail.com)
 
@@ -63,7 +63,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=openAi-kumar&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codeWithOrange&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
@@ -71,19 +71,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=openAi-kumar&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=openAi-kumar&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codeWithOrange&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithOrange&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=openAi-kumar&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithOrange&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🧩 Contribution Graph
 <p align="center">
-  <img src="https://github.com/openAi-kumar/openAi-kumar/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/codeWithOrange/codeWithOrange/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
