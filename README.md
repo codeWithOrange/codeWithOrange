@@ -37,43 +37,51 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="340"
-  src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df23d73e58f328a3cb3e4ac/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-```yaml
-╔══════════════════════════════════════════╗
-║       angad-kumar.config.yaml            ║
-╚══════════════════════════════════════════╝
+### 👨‍💻 Angad Kumar
 
-name       : "Angad Kumar"
-age        : 20
-location   : "India 🇮🇳"
-status     : "Open to Collaborate 🤝"
+🔭 &nbsp;Currently building **[Bintrayx.store](https://bintrayx.store)** — App & Software Store  
+🌱 &nbsp;Learning **LangChain · Rust · AI Agents · Microservices**  
+👨‍🏫 &nbsp;Teaching coding on **[Spicarr Coding](https://www.youtube.com/@spicarrcoding)** (YouTube)  
+💬 &nbsp;Ask me about **FastAPI · Flutter · Django · PostgreSQL · System Design**  
+⚡ &nbsp;Fun fact: **Shipped 6+ production apps by age 20!**  
+📍 &nbsp;Based in **India 🇮🇳** — Open to Collaborate 🤝  
 
-roles:
-  - "Full-Stack Software Developer"
-  - "Flutter App Developer"
-  - "Backend Architect (FastAPI / Django / Go)"
-  - "AI / ML Explorer 🧠"
-  - "YouTube Educator 🎥"
+<br/>
 
-currently:
-  building   : "Bintrayx.store — App & Software Store"
-  learning   : ["LangChain", "Rust", "AI Agents", "Microservices"]
-  teaching   : "Spicarr Coding (YouTube)"
-  exploring  : "System Design at Scale"
+**🛠️ My Stack at a Glance:**
 
-fun_facts:
-  - "Shipped 6+ production apps by age 20"
-  - "Teaches coding to thousands on YouTube"
-  - "Loves clean architecture over hacky fixes"
-
-philosophy : >
-  "Don't just code — build something
-   that speaks logic."
+```
+Backend   →  FastAPI  |  Django  |  Node.js  |  Gin (Go)
+Mobile    →  Flutter  |  React Native
+Frontend  →  Next.js  |  Vue.js  |  Nuxt 3
+Database  →  PostgreSQL  |  MongoDB  |  Redis  |  Supabase
+AI/ML     →  LangChain  |  Python  |  OpenAI APIs
+DevOps    →  Docker  |  GitHub Actions  |  Linux
 ```
 
-<br clear="right"/>
+<br/>
+
+> *"Don't just code — build something that speaks logic."*
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df23d73e58f328a3cb3e4ac/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" alt="Coding GIF"/>
+
+<br/>
+
+![Age](https://img.shields.io/badge/Age-20-58a6ff?style=flat-square&logo=person&logoColor=white)
+![From](https://img.shields.io/badge/From-India%20🇮🇳-ff9933?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack-3fb950?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Collab-58a6ff?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
