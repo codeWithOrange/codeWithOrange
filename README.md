@@ -244,9 +244,10 @@ DevOps    →  Docker  |  GitHub Actions  |  Linux
 | 1 | 🛍️ **Bintrayx.store** | FastAPI · Vue · PostgreSQL | Production app & software marketplace with full admin dashboard, auth & payments | [🌐](https://bintrayx.store) |
 | 2 | 📚 **LexiDaily** | Flutter · Supabase · Firebase | All-in-one productivity app — notes, tasks & real-time messaging | [▶](https://play.google.com/store/apps/details?id=com.spicarr.lexidaily) |
 | 3 | 🧥 **Takshnika.shop** | Next.js · FastAPI · Stripe | College e-commerce with Stripe payments & notes marketplace | [🌐](https://takshnika.shop) |
-| 4 | 📞 **PulseCall** | Flutter · Node.js · WebRTC | Fake call simulator + smart scheduler for content creators | [🌐](https://bintrayx.store/auth/all_softwares/6/) |
-| 5 | 🤖 **Cleannova** | Arduino · C · Bluetooth · Flutter | IoT autonomous vacuum/mop robot with real-time mobile control | [🌐](https://cleannova.vercel.app) |
+| 4 | 📞 **PulseCall** | Flutter · Node.js · WebRTC | Fake call simulator + smart scheduler for content creators | [🌐](https://play.google.com/store/apps/details?id=com.spicarr.pulsecaller&hl=en_IN) |
+| 5 | 🤖 **Cleannova** | Arduino · C · Bluetooth · Flutter | IoT autonomous vacuum/mop robot with real-time mobile control |
 | 6 | ✍️ **SpicarrBlog** | Nuxt 3 · Gin · PostgreSQL | High-performance full-stack blogging platform | [🌐](https://spicarrblog.vercel.app) |
+| 7 | ✍️ **Tacto** | Flutter · fastapi · PostgreSQL | High-performance full-stack blogging platform | [🌐]([https://spicarrblog.vercel.app](https://play.google.com/store/apps/details?id=com.spicarr.tacto&hl=en_IN)) |
 
 </div>
 
