@@ -1,31 +1,47 @@
-<!-- ══════════════════════════════════════════════════════════
-   ⚡ Angad Kumar — GitHub Profile README  |  codeWithOrange
-   ══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════
+   ⚡ ANGAD KUMAR (codeWithOrange) — ELITE GITHUB PROFILE README
+   ══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ████████████ HERO BANNER ████████████ -->
+<!-- ████████████ DYNAMIC CYBERPUNK HERO BANNER ████████████ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060912,25:0a2744,55:0a3d62,80:1a1a2e,100:0d1117&height=220&section=header&text=Angad%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Systems%20Engineer%20%F0%9F%9A%80&descSize=19&descAlignY=58&descColor=79c0ff" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,20:0a1d37,45:005f73,75:0a9396,100:00F5D4&height=240&section=header&text=ANGAD%20KUMAR&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=FULL-STACK%20%E2%80%A2%20MOBILE%20%E2%80%A2%20SYSTEMS%20ARCHITECT&descSize=18&descAlignY=58&descColor=94D2BD" alt="Header Wave Banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=52&lines=👋+Hey+there!+I'm+Angad+Kumar;💻+Full-Stack+Software+Developer;📱+Flutter+App+Developer;🧠+AI+%26+ML+Explorer;🚀+Building+Production-Ready+Apps;🎥+Teaching+Code+on+YouTube;🦀+Currently+Working+on+GenX...)](https://git.io/typing-svg)
+<!-- Neon Fira-Code Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=740&height=56&lines=%E2%96%B6+Full-Stack+%26+Distributed+Systems+Engineer;%E2%96%B6+Cross-Platform+Mobile+Architect+(Flutter);%E2%96%B6+High-Throughput+APIs+(FastAPI+%E2%80%A2+Go+%E2%80%A2+Django);%E2%96%B6+Production+AI+Pipelines+%26+Autonomous+Agents;%E2%96%B6+Creator+%40+Spicarr+Coding+(YouTube);%E2%96%B6+Currently+Engineering+GenX+%26+Bintrayx..." alt="Typing SVG Animation" />
+</a>
 
 <br/>
 
-<!-- Live profile metrics -->
-<img src="https://komarev.com/ghpvc/?username=codeWithOrange&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/codeWithOrange?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/codeWithOrange?label=Total+Stars&style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github" alt="Total Stars"/>
+<!-- Real-time Telemetry Shields -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codeWithOrange&label=HUD%20VIEWS&color=00f5d4&style=for-the-badge&labelColor=060913" alt="Profile Views Counter"/>
+  <img src="https://img.shields.io/github/followers/codeWithOrange?label=FOLLOWERS&style=for-the-badge&color=00b4d8&labelColor=060913&logo=github&logoColor=00f5d4" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/codeWithOrange?label=TOTAL%20STARS&style=for-the-badge&color=ffd166&labelColor=060913&logo=github&logoColor=ffd166" alt="Stars Counter"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20COLLAB-38b000?style=for-the-badge&labelColor=060913" alt="Availability Status"/>
+</p>
 
-<br/><br/>
-
-<!-- Social links -->
-[![YouTube](https://img.shields.io/badge/▶_YouTube-Spicarr_Coding-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@spicarrcoding)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Angad_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angadp11/)
-[![Gmail](https://img.shields.io/badge/✉_Gmail-angad.kumarp11-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angad.kumarp11@gmail.com)
-[![Twitter](https://img.shields.io/badge/𝕏_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/VarunAryan9)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-codeWithOrange-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeWithOrange)
+<!-- Connected Hub -->
+<p align="center">
+  <a href="https://www.youtube.com/@spicarrcoding">
+    <img src="https://img.shields.io/badge/YouTube-Spicarr_Coding-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+  </a>
+  <a href="https://www.linkedin.com/in/angadp11/">
+    <img src="https://img.shields.io/badge/LinkedIn-Angad_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="mailto:angad.kumarp11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-angad.kumarp11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct"/>
+  </a>
+  <a href="https://x.com/VarunAryan9">
+    <img src="https://img.shields.io/badge/Twitter-@VarunAryan9-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Handle"/>
+  </a>
+  <a href="https://github.com/codeWithOrange">
+    <img src="https://img.shields.io/badge/GitHub-codeWithOrange-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+</p>
 
 </div>
 
@@ -33,36 +49,41 @@
 
 ---
 
-<!-- ████████████ ABOUT ME ████████████ -->
+<!-- ████████████ ENGINEERING PROFILE (CYBER TERMINAL) ████████████ -->
 
-## 🧑‍💻 Engineering Profile
+## 🖥️ System Architecture & Profile
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
-### ⚡ Software & Systems Architect
+```ini
+╔═════════════════════════════════════════════════════════════════════╗
+║ 🔴 🟡 🟢  system@angad:~$ cat core_specifications.sh                ║
+╚═════════════════════════════════════════════════════════════════════╝
+```
 
-Full-stack engineer specializing in **distributed backend architectures**, **cross-platform mobile applications**, and **high-throughput asynchronous services**.
+**Full-stack Software & Mobile Engineer** focused on building resilient distributed systems, sub-millisecond asynchronous services, and cross-platform native applications.
 
-- 🔭 **Active Engineering**: Architecting and scaling **[Bintrayx.store](https://bintrayx.store)** — desktop/mobile software distribution ecosystem with modular admin & payment telemetry.
-- 📱 **Mobile Ecosystem**: Production deployment experience across multiple Google Play Store apps using **Flutter**, native platform channels, and reactive local-first caching.
-- ⚙️ **Backend Specialization**: Designing decoupled REST & WebSocket APIs using **FastAPI**, **Django REST Framework**, and **Go (Gin)** backed by relational & distributed storage.
-- 🧠 **AI & Workflow Automation**: Integrating autonomous LLM agent pipelines, **LangChain**, and vector-indexed retrieval systems.
-- 🎥 **Technical Knowledge Base**: Authoring deep-dive engineering tutorials and architectural breakdowns on **[Spicarr Coding](https://www.youtube.com/@spicarrcoding)**.
+- 🏗️ **Distributed Systems**: Engineering high-concurrency micro-backends and asynchronous messaging pipelines utilizing **FastAPI**, **Django REST Framework**, and **Go (Gin)** backed by transactional **PostgreSQL** and **Redis** caching tiers.
+- 📱 **Mobile & Local-First**: Architecting state-driven, cross-platform client ecosystems via **Flutter** and **React Native**, implementing reactive caching, background sync, and offline-first persistence.
+- 🧠 **Agentic AI Integration**: Designing retrieval-augmented generation (RAG) graphs, vector search indices, and autonomous workflow tooling using **LangChain** and modern LLM APIs.
+- 🚀 **Flagship Deployments**: Shipped consumer and commercial products to the **Google Play Store** and production cloud environments serving thousands of active interactions.
+- 🎙️ **Knowledge Distribution**: Creator at **[Spicarr Coding](https://www.youtube.com/@spicarrcoding)**, breaking down low-level computer science fundamentals, backend logic, and scalable design patterns.
 
 </td>
-<td width="40%" align="center" valign="top">
+<td width="38%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df23d73e58f328a3cb3e4ac/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" alt="Developer Workspace Animation"/>
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df23d73e58f328a3cb3e4ac/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" alt="Developer Matrix Terminal"/>
 
 <br/>
 
-```
-[System Status]
-● Location     : India 🇮🇳
-● Availability : Open to High-Impact Collaboration
-● Core Focus   : Scalable Systems & Mobile Apps
+```yaml
+system_telemetry:
+  engineer   : "Angad Kumar"
+  focus      : "Scale • Reliability • UX"
+  environment: "Linux / Cloud / Mobile"
+  status     : "Active Deployment"
 ```
 
 </td>
@@ -71,141 +92,104 @@ Full-stack engineer specializing in **distributed backend architectures**, **cro
 
 ---
 
-<!-- ████████████ TECH STACK ████████████ -->
+<!-- ████████████ VISUAL TECH STACK (SKILLICONS) ████████████ -->
 
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🌐 &nbsp;Core Languages</b></summary><br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>📱 &nbsp;Mobile & Web Frontend</b></summary><br>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ &nbsp;Backend & Networking</b></summary><br>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin_(Go)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ &nbsp;Databases & Infrastructure</b></summary><br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔧 &nbsp;DevOps & AI Tooling</b></summary><br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</details>
-
----
-
-<!-- ████████████ SKILL POWER METER ████████████ -->
-
-## ⚡ Technical Proficiency Index
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    ⚡  TECHNICAL  PROFICIENCY                    ║
-╠═══════════════════════╦════════════════╦════════════════════════╣
-║  Domain / Stack       ║  Proficiency   ║  Coverage Meter        ║
-╠═══════════════════════╬════════════════╬════════════════════════╣
-║  🐍  Python           ║  Expert  [95%] ║  ████████████████████░ ║
-║  ⚡  Flutter          ║  Adv.    [90%] ║  ██████████████████░░░ ║
-║  🧱  FastAPI          ║  Adv.    [88%] ║  █████████████████░░░░ ║
-║  🌐  Django + DRF     ║  Adv.    [85%] ║  █████████████████░░░░ ║
-║  🧮  DSA & Systems    ║  Adv.    [85%] ║  █████████████████░░░░ ║
-║  🗃️  PostgreSQL       ║  Prof.   [80%] ║  ████████████████░░░░░ ║
-║  ☁️  Node.js          ║  Strong  [78%] ║  ███████████████░░░░░░ ║
-║  🧠  React / Next.js  ║  Good    [75%] ║  ███████████████░░░░░░ ║
-║  🦾  Vue / Nuxt 3     ║  Good    [70%] ║  ██████████████░░░░░░░ ║
-║  🦍  Go (Golang)      ║  Mid.    [65%] ║  █████████████░░░░░░░░ ║
-║  🦀  Rust             ║  Active  [60%] ║  ████████████░░░░░░░░░ ║
-║  🔗  LangChain / AI   ║  Active  [55%] ║  ███████████░░░░░░░░░░ ║
-╚═══════════════════════╩════════════════╩════════════════════════╝
-```
-
----
-
-<!-- ████████████ GITHUB STATS ████████████ -->
-
-## 📊 Live Metrics & Telemetry
+## ⚡ Tech Matrix
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeWithOrange&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" height="182" alt="GitHub Profile Statistics"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithOrange&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=12" height="182" alt="Contribution Streak Statistics"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,go,rust,ts,js,dart,cpp,c,cs,java,flutter,react,nextjs,vue,nuxtjs,fastapi,django,nodejs,express,postgres,mongodb,mysql,redis,supabase,firebase,docker,linux,git,githubactions,postman,figma,tailwind&perline=16" alt="Tech Matrix Grid" />
+</a>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithOrange&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" height="220" alt="Languages Breakdown Donut Chart"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithOrange&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12" height="220" alt="Languages Breakdown Compact List"/>
+<details open>
+<summary><b>🛠️ Categorized Stack Breakdown</b></summary>
+<br/>
 
-</div>
+| Domain | Production Tooling & Stacks |
+|:-------|:----------------------------|
+| **Core Languages** | `Python` `Go (Golang)` `Rust` `TypeScript` `JavaScript` `Dart` `C++` `C` `Java` `C#` |
+| **Mobile & Frontend** | `Flutter` `React Native` `React.js` `Next.js (App Router)` `Vue.js 3` `Nuxt 3` `Tailwind CSS` |
+| **Backend & Messaging** | `FastAPI` `Django + DRF` `Go Gin` `Node.js` `Express.js` `GraphQL` `WebSockets` `WebRTC` |
+| **Data & Cloud Layers** | `PostgreSQL` `Redis` `MongoDB` `MySQL` `Supabase` `Firebase` `Stripe Gateway` `Docker` |
+| **DevOps & AI Systems** | `Linux Kernel/CLI` `GitHub Actions CI/CD` `LangChain` `Postman` `Figma` `Arduino IoT` |
+
+</details>
 
 ---
 
-<!-- ████████████ WAKATIME ████████████ -->
+<!-- ████████████ SKILL POWER INDEX (FUTURISTIC HUD) ████████████ -->
 
-## ⏱️ Development Activity *(WakaTime)*
+## 🔋 Technical Mastery Index
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                         ⚡  SYSTEM PROFICIENCY METRIC                        ║
+╠═════════════════════════════╦════════════════════╦════════════════════════════╣
+║  Core Capability            ║  Proficiency Tier  ║  Active Vector Load        ║
+╠═════════════════════════════╬════════════════════╬════════════════════════════╣
+║  🐍  Python Backend / AI    ║  Expert    [95%]   ║  ████████████████████░░░░  ║
+║  ⚡  Flutter Architecture   ║  Adv.      [90%]   ║  ██████████████████░░░░░░  ║
+║  🧱  FastAPI Microservices  ║  Adv.      [88%]   ║  █████████████████░░░░░░░  ║
+║  🌐  Django & REST Platform ║  Adv.      [85%]   ║  █████████████████░░░░░░░  ║
+║  🧮  Data Structures & Algo ║  Adv.      [85%]   ║  █████████████████░░░░░░░  ║
+║  🗃️  PostgreSQL / Relational║  Proficient[80%]   ║  ████████████████░░░░░░░░  ║
+║  ☁️  Node.js / Express      ║  Strong    [78%]   ║  ███████████████░░░░░░░░░  ║
+║  🧠  React / Next.js Ecosystem║Good      [75%]   ║  ███████████████░░░░░░░░░  ║
+║  🦾  Vue 3 / Nuxt Engine    ║  Good      [70%]   ║  ██████████████░░░░░░░░░░  ║
+║  🦍  Go (Golang Systems)    ║  Mid Tier  [65%]   ║  █████████████░░░░░░░░░░░  ║
+║  🦀  Rust Language Core     ║  Active    [60%]   ║  ████████████░░░░░░░░░░░░  ║
+║  🔗  LangChain & RAG Agents ║  Active    [55%]   ║  ███████████░░░░░░░░░░░░░  ║
+╚═════════════════════════════╩════════════════════╩════════════════════════════╝
+```
+
+---
+
+<!-- ████████████ PRODUCTION PROJECTS SHOWCASE ████████████ -->
+
+## 🚀 Engineered Deployments
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeWithOrange&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&border_radius=12" alt="WakaTime Weekly Coding Breakdown"/>
+| # | 📦 Product | ⚙️ Architecture Stack | 🎯 Engineering Scope & Technical Depth | 🔗 Direct Link |
+|:-:|:----------|:----------------------|:---------------------------------------|:--------------:|
+| 1 | 🛍️ **Bintrayx.store** | `FastAPI` `Vue 3` `PostgreSQL` | High-throughput desktop and mobile software store featuring multi-tenant role authorization, digital license distribution, and automated administrative telemetry. | [🌐 Live App](https://bintrayx.store) |
+| 2 | 🎮 **Tacto** | `Flutter` `FastAPI` `PostgreSQL` | Modernized algorithmic board gaming suite featuring adaptive multi-tier heuristic AI, synchronized local 1v1 play, and persistent cloud-synced player analytics. | [📱 Google Play](https://play.google.com/store/apps/details?id=com.spicarr.tacto&hl=en_IN) |
+| 3 | 📚 **LexiDaily** | `Flutter` `Supabase` `Firebase` | Low-latency productivity client integrating encrypted local-first notes, hierarchical sprint queues, and asynchronous websocket team messaging. | [📱 Google Play](https://play.google.com/store/apps/details?id=com.spicarr.lexidaily) |
+| 4 | 🧥 **Takshnika.shop** | `Next.js` `FastAPI` `Stripe` | Enterprise academic marketplace handling encrypted digital asset exchange, webhook-driven Stripe reconciliation, and verified student note distribution. | [🌐 Live Site](https://takshnika.shop) |
+| 5 | 📞 **PulseCall** | `Flutter` `Node.js` `WebRTC` | Real-time virtual telephony simulation engine supporting dynamic state injection, custom audio schedules, and deterministic caller workflows. | [📱 Google Play](https://play.google.com/store/apps/details?id=com.spicarr.pulsecaller&hl=en_IN) |
+| 6 | 🤖 **Cleannova** | `Arduino` `C++` `Bluetooth` `Flutter` | Autonomous robotic sanitation appliance featuring bidirectional hardware telemetry, real-time sensor collision avoidance, and Flutter mobile control panel. | [🌐 Web Portal](https://cleannova.vercel.app) |
+| 7 | ✍️ **SpicarrBlog** | `Nuxt 3` `Gin (Go)` `PostgreSQL` | High-concurrency publication platform running compiled Go endpoints, category graph traversal, and server-side cached rendering for high Core Web Vitals. | [🌐 Live Site](https://spicarrblog.vercel.app) |
 
 </div>
 
 ---
 
-<!-- ████████████ TROPHIES ████████████ -->
+<!-- ████████████ LIVE GITHUB ANALYTICS DASHBOARD ████████████ -->
+
+## 📊 Telemetry & GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codeWithOrange&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=060913&title_color=00F5D4&icon_color=00B4D8&text_color=E2E8F0&border_radius=12" height="182" alt="GitHub Profile Statistics"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeWithOrange&theme=tokyonight&hide_border=true&background=060913&stroke=00F5D4&ring=00B4D8&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=E2E8F0&currStreakLabel=00F5D4&sideLabels=00B4D8&dates=8B949E&border_radius=12" height="182" alt="Contribution Streak Statistics"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithOrange&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&bg_color=060913&title_color=00F5D4&text_color=E2E8F0&border_radius=12" height="220" alt="Languages Breakdown Donut Chart"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithOrange&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&bg_color=060913&title_color=00F5D4&text_color=E2E8F0&border_radius=12" height="220" alt="Languages Breakdown Compact List"/>
+
+</div>
+
+---
+
+<!-- ████████████ REPOSITORY MILESTONES & TROPHIES ████████████ -->
 
 ## 🏆 Repository Milestones
 
@@ -217,39 +201,31 @@ Full-stack engineer specializing in **distributed backend architectures**, **cro
 
 ---
 
-<!-- ████████████ PROJECTS ████████████ -->
+<!-- ████████████ WAKATIME CODE TIME TRACKING ████████████ -->
 
-## 💼 Featured Engineering Deployments
+## ⏱️ Development Pulse *(WakaTime)*
 
 <div align="center">
 
-| # | 🚀 Project | ⚙️ Architecture & Tech | ✨ Technical Scope & Overview | 🔗 Access |
-|:-:|:-----------|:-----------------------|:------------------------------|:---------:|
-| 1 | 🛍️ **Bintrayx.store** | FastAPI · Vue.js · PostgreSQL | Scalable desktop & mobile software repository featuring granular role authentication, transactional licensing, and administrative monitoring dashboards. | [🌐 Live App](https://bintrayx.store) |
-| 2 | 🎮 **Tacto** | Flutter · FastAPI · PostgreSQL | Modernized algorithmic board gaming suite featuring adaptive multi-tier heuristic AI, synchronized local 1v1 play, and persistent cloud-synced player analytics. | [📱 Google Play](https://play.google.com/store/apps/details?id=com.spicarr.tacto&hl=en_IN) |
-| 3 | 📚 **LexiDaily** | Flutter · Supabase · Firebase | Cross-platform productivity environment uniting encrypted offline-first notes, hierarchical sprint task queues, and low-latency real-time communications. | [📱 Google Play](https://play.google.com/store/apps/details?id=com.spicarr.lexidaily) |
-| 4 | 🧥 **Takshnika.shop** | Next.js · FastAPI · Stripe | Full-stack academic digital storefront handling encrypted checkout pipelines, automated Stripe webhooks, and authenticated educational note assets. | [🌐 Live Site](https://takshnika.shop) |
-| 5 | 📞 **PulseCall** | Flutter · Node.js · WebRTC | Real-time virtual telephony simulator and scheduled calling engine designed with dynamic state injection for stream broadcasting and workflow testing. | [📱 Google Play](https://play.google.com/store/apps/details?id=com.spicarr.pulsecaller&hl=en_IN) |
-| 6 | 🤖 **Cleannova** | Arduino · C++ · Bluetooth · Flutter | Autonomous dual-rotor vacuum & sanitation robotic system with bi-directional Bluetooth telemetry, obstacle navigation heuristics, and mobile dashboard control. | [🌐 Web Portal](https://cleannova.vercel.app) |
-| 7 | ✍️ **SpicarrBlog** | Nuxt 3 · Gin (Go) · PostgreSQL | High-concurrency technical publication engine backed by compiled Go micro-endpoints, dynamic category graph indexing, and SSR frontend delivery. | [🌐 Live Site](https://spicarrblog.vercel.app) |
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeWithOrange&theme=tokyonight&hide_border=true&bg_color=060913&title_color=00F5D4&text_color=E2E8F0&layout=compact&border_radius=12" alt="WakaTime Weekly Coding Breakdown"/>
 
 </div>
 
 ---
 
-<!-- ████████████ ACTIVITY GRAPH ████████████ -->
+<!-- ████████████ CONTRIBUTION ACTIVITY GRAPH ████████████ -->
 
 ## 📈 Git Activity Visualizer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithOrange&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&color=79c0ff&line=58a6ff&point=ff6b6b&custom_title=Angad's+GitHub+Activity+Graph&bg_color=0d1117&radius=8" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWithOrange&theme=tokyo-night&hide_border=true&area=true&area_color=00F5D4&color=00B4D8&line=00F5D4&point=FF6B6B&custom_title=Angad's+GitHub+Activity+Graph&bg_color=060913&radius=8" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
 ---
 
-<!-- ████████████ CONTRIBUTION SNAKE ████████████ -->
+<!-- ████████████ ADAPTIVE CONTRIBUTION SNAKE ANIMATION ████████████ -->
 
 ## 🐍 Contribution Grid Animation
 
@@ -268,7 +244,7 @@ Full-stack engineer specializing in **distributed backend architectures**, **cro
 
 ---
 
-<!-- ████████████ DEV QUOTE ████████████ -->
+<!-- ████████████ ROTATING ENGINEERING QUOTE ████████████ -->
 
 ## 💬 Engineering Thought of the Day
 
@@ -280,32 +256,32 @@ Full-stack engineer specializing in **distributed backend architectures**, **cro
 
 ---
 
-<!-- ████████████ CONNECT ████████████ -->
+<!-- ████████████ GET IN TOUCH MATRIX ████████████ -->
 
-## 🤝 Technical Inquiries & Collaboration
+## 🤝 Inquiries & Technical Collaboration
 
 <div align="center">
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none; padding: 10px;">
       <a href="https://www.youtube.com/@spicarrcoding">
         <img src="https://img.shields.io/badge/🎥_YouTube-Spicarr_Coding-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none; padding: 10px;">
       <a href="https://www.linkedin.com/in/angadp11/">
-        <img src="https://img.shields.io/badge/💼_LinkedIn-Angad_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+        <img src="https://img.shields.io/badge/💼_LinkedIn-Angad_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="border: none; padding: 10px;">
       <a href="mailto:angad.kumarp11@gmail.com">
         <img src="https://img.shields.io/badge/📧_Email-angad.kumarp11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none; padding: 10px;">
       <a href="https://x.com/VarunAryan9">
         <img src="https://img.shields.io/badge/𝕏_Twitter-@VarunAryan9-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Handle"/>
       </a>
@@ -317,11 +293,11 @@ Full-stack engineer specializing in **distributed backend architectures**, **cro
 
 ---
 
-<!-- ████████████ FOOTER ████████████ -->
+<!-- ████████████ NEON CYBER FOOTER ████████████ -->
 
 <div align="center">
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FcodeWithOrange&label=Total%20Visitors&countColor=%2358a6ff&style=flat-square" alt="Live Total Profile Visitors"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FcodeWithOrange&label=HUD%20TOTAL%20PINGS&countColor=%2300f5d4&style=flat-square" alt="Live Total Profile Visitors"/>
 
 <br/><br/>
 
@@ -331,4 +307,4 @@ Full-stack engineer specializing in **distributed backend architectures**, **cro
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2744,60:0a3d62,100:060912&height=140&section=footer&animation=fadeIn" alt="Footer Wave Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,30:0a9396,60:005f73,100:060913&height=140&section=footer&animation=twinkling" alt="Footer Wave Banner"/>
