@@ -1,8 +1,4 @@
-from pathlib import Path
-src = Path("/mnt/data/Pasted markdown(3).md")
-out = Path("/mnt/data/Angad_Kumar_Minimal_Professional_GitHub_README.md")
-
-text = """# Angad Kumar
+# Angad Kumar
 
 **Full-Stack Developer · Backend & Mobile Development**
 
@@ -93,7 +89,3 @@ Other certifications include:
 - [GitHub](https://github.com/codeWithOrange)
 - [YouTube — Spicarr Coding](https://www.youtube.com/@spicarrcoding)
 - Email: angad.kumarp11@gmail.com
-"""
-
-out.write_text(text, encoding="utf-8")
-print(out)
